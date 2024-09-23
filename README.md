@@ -1,0 +1,2 @@
+# Portfolio-Optimization-and-Risk-Management-using-Financial-Analytics-Models
+In the Financial Analytics module, I developed portfolio optimization models, including Mean-Variance, Minimum Variance, and Naive Portfolio strategies, using historical data from 17 industry portfolios (1926-2024). The project focused on optimizing portfolio performance and evaluating the impact of time horizons on risk and return.
